@@ -5,7 +5,7 @@ Jupyter notebook of basic ETL(Extract Transform and Load) Assignment in Python (
 # Download the Run Notebook on Jupyter
 You can easily download the notebook(.ipynb) file and can run on online Jupyter notebook.
 
-# Running code Local
+# Running code Locally
 If you want to run python code locally then you can download the these three data files in your workspace or same working directory.
 1. 'exchange_rates.csv'
 2. 'bank_market_cap_1.json'
